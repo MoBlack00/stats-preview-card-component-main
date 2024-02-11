@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/MoBlack00/stats-preview-card-component-main](https://github.com/MoBlack00/stats-preview-card-component-main)
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component-html-css-ByNlqMbMp7](https://www.frontendmentor.io/solutions/stats-preview-card-component-html-css-ByNlqMbMp7)
 - Live Site URL: [https://tiny-yeot-f1707f.netlify.app](https://tiny-yeot-f1707f.netlify.app)
 
 ## My process
