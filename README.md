@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MoBlack00/stats-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://tiny-yeot-f1707f.netlify.app)
+- Solution URL: [https://github.com/MoBlack00/stats-preview-card-component-main](https://github.com/MoBlack00/stats-preview-card-component-main)
+- Live Site URL: [https://tiny-yeot-f1707f.netlify.app](https://tiny-yeot-f1707f.netlify.app)
 
 ## My process
 
